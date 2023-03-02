@@ -21,7 +21,8 @@ public class CarrosTasks extends Task<Integer>{
     public CarrosTasks(Observer observador){
         this.obeserver =observador;
     }
-
+//peroooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+    //perrooooooooooooooooooooooooooooo
     @Override
     protected Integer call() throws Exception {
        int dormir = 0;
